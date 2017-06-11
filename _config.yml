@@ -9,13 +9,23 @@ encoding: utf-8
 # Setup
 title:               Nick's World
 #tagline:             'foo's website
+<<<<<<< HEAD
+description:         Nick's blog...
+
+=======
 description:         Foo's blog...
+>>>>>>> de8a02552f583de3266e800d3c4c8a8b078b6006
 #url: https://lanyon-plus.sbamin.com
 #baseurl: ""
 #urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
+<<<<<<< HEAD
+url: https://nicholasphair.github.io
+baseurl: ""
+=======
 url: https://nicholasphair.github.io/lanyon-plus
 #baseurl: "nicholasphair.github.io"
+>>>>>>> de8a02552f583de3266e800d3c4c8a8b078b6006
 #urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
 kramdown:
@@ -51,20 +61,28 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:              Nick Phair
   url:               https://nicholasphair.github.io
+<<<<<<< HEAD
+  avatar:            SouthParkAvatar_NPhair.png
+=======
   avatar:         foo.png
+>>>>>>> de8a02552f583de3266e800d3c4c8a8b078b6006
   #email:           
 
 # Owner/author information
 owner:
   name:              Nick Phair
+<<<<<<< HEAD
+  avatar:            SouthParkAvatar_NPhair.png
+=======
   avatar:         foo.png
+>>>>>>> de8a02552f583de3266e800d3c4c8a8b078b6006
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         xyz123abc
+  github:
   stackexchange:  
   linkedin:       
   instagram:      
@@ -96,7 +114,7 @@ links:
 #twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: foo
+disqus_shortname: 
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
