@@ -13,9 +13,7 @@ sitemap:
     changefreq: 'monthly'
     lastmod: 2016-02-13
 tags:
-  - "foo boo"
-  - "driving directions"
-  - address
+  - "about me"
 ---
 
 | <i class="fa fa-twitter"></i> | [@{{ site.owner.twitter }}](https://twitter.com/{{ site.owner.twitter }})  | 

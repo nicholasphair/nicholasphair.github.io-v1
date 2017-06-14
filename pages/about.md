@@ -30,4 +30,3 @@ tags:
 </div>
 
 Hi I am Nick.
-*[volutpat]: Tooltip for abbreviation.
