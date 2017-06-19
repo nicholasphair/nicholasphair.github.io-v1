@@ -74,7 +74,7 @@ prose:
           options:
             - name: "default"
               value: default
-          alterable: true     
+          alterable: true
       - name: "imagefeature"
         field:
           element: "text"
