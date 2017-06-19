@@ -37,8 +37,10 @@ a{
 text-decoration:none}
 a strong{
 color:inherit}
-a:focus,a:hover{
-text-decoration:underline}
+a:focus,a:hover {
+    background-color: #ff6600;
+    border-radius: 30px
+}
 .gsc-cursor,.related-posts li a:hover,.slidetags a,.social-icons a,.tag-box a,.tag-ts{
 text-decoration:none}
 h1,h2,h3,h4,h5,h6{
@@ -278,14 +280,15 @@ width:100%}
     padding-top:1rem;
     padding-bottom:1rem;
     margin-bottom:1rem;
-border-bottom:1px solid #eee}
+    background-color: #660000;
+border-bottom:1px solid #ff6600}
 .masthead-title,.sidebar-item p:last-child{
 margin-bottom:0}
 .masthead-title{
     margin-top:0;
 color:#505050}
 .masthead-title a{
-color:#505050}
+color:#ffffff}
 .masthead-title small{
     font-size:75%;
     font-weight:400;
@@ -350,7 +353,7 @@ user-select:none}
     display:block;
     padding:.25rem .75rem;
     color:#505050;
-    background-color:#fff;
+    background-color:#660000;
     border-radius:.25rem;
 cursor:pointer}
 .sidebar-toggle:before{
@@ -358,20 +361,20 @@ cursor:pointer}
     width:1rem;
     height:.75rem;
     content:"";
-    background-image:-webkit-linear-gradient(to bottom,#555,#555 20%,#fff 20%,#fff 40%,#555 40%,#555 60%,#fff 60%,#fff 80%,#555 80%,#555 100%);
-    background-image:-moz-linear-gradient(to bottom,#555,#555 20%,#fff 20%,#fff 40%,#555 40%,#555 60%,#fff 60%,#fff 80%,#555 80%,#555 100%);
-    background-image:-ms-linear-gradient(to bottom,#555,#555 20%,#fff 20%,#fff 40%,#555 40%,#555 60%,#fff 60%,#fff 80%,#555 80%,#555 100%);
-background-image:linear-gradient(to bottom,#555,#555 20%,#fff 20%,#fff 40%,#555 40%,#555 60%,#fff 60%,#fff 80%,#555 80%,#555 100%)}
+    background-image:-webkit-linear-gradient(to bottom,#ffffff,#ffffff 20%,#660000 20%,#660000 40%,#ffffff 40%,#ffffff 60%,#660000 60%,#660000 80%,#ffffff 80%,#ffffff 100%);
+    background-image:-moz-linear-gradient(to bottom,#ffffff,#ffffff 20%,#660000 20%,#660000 40%,#ffffff 40%,#ffffff 60%,#660000 60%,#660000 80%,#ffffff 80%,#ffffff 100%);
+    background-image:-ms-linear-gradient(to bottom,#ffffff,#ffffff 20%,#660000 20%,#660000 40%,#ffffff 40%,#ffffff 60%,#660000 60%,#660000 80%,#ffffff 80%,#ffffff 100%);
+background-image:linear-gradient(to bottom,#ffffff,#ffffff 20%,#660000 20%,#660000 40%,#ffffff 40%,#ffffff 60%,#660000 60%,#660000 80%,#ffffff 80%,#ffffff 100%)}
 #sidebar-checkbox:checked~.sidebar-toggle,#sidebar-checkbox:focus~.sidebar-toggle,.sidebar-toggle:active{
     color:#fff;
-background-color:#555}
+background-color:#660000}
 a.pagination-item:hover,a.prevnext-item:hover{
 background-color:#f5f5f5}
 #sidebar-checkbox:checked~.sidebar-toggle:before,#sidebar-checkbox:focus~.sidebar-toggle:before,.sidebar-toggle:active:before{
-    background-image:-webkit-linear-gradient(to bottom,#fff,#fff 20%,#555 20%,#555 40%,#fff 40%,#fff 60%,#555 60%,#555 80%,#fff 80%,#fff 100%);
-    background-image:-moz-linear-gradient(to bottom,#fff,#fff 20%,#555 20%,#555 40%,#fff 40%,#fff 60%,#555 60%,#555 80%,#fff 80%,#fff 100%);
-    background-image:-ms-linear-gradient(to bottom,#fff,#fff 20%,#555 20%,#555 40%,#fff 40%,#fff 60%,#555 60%,#555 80%,#fff 80%,#fff 100%);
-background-image:linear-gradient(to bottom,#fff,#fff 20%,#555 20%,#555 40%,#fff 40%,#fff 60%,#555 60%,#555 80%,#fff 80%,#fff 100%)}
+    background-image:-webkit-linear-gradient(to bottom,#ffffff,#ffffff 20%,#660000 20%,#660000 40%,#ffffff 40%,#ffffff 60%,#660000 60%,#660000 80%,#ffffff 80%,#ffffff 100%);
+    background-image:-moz-linear-gradient(to bottom,#ffffff,#ffffff 20%,#660000 20%,#660000 40%,#ffffff 40%,#ffffff 60%,#660000 60%,#660000 80%,#ffffff 80%,#ffffff 100%);
+    background-image:-ms-linear-gradient(to bottom,#ffffff,#ffffff 20%,#660000 20%,#660000 40%,#ffffff 40%,#ffffff 60%,#660000 60%,#660000 80%,#ffffff 80%,#ffffff 100%);
+background-image:linear-gradient(to bottom,#ffffff,#ffffff 20%,#660000 20%,#660000 40%,#ffffff 40%,#ffffff 60%,#660000 60%,#660000 80%,#ffffff 80%,#ffffff 100%)}
 @media (min-width:30.1em){
     .sidebar-toggle{
     position:fixed}
@@ -1067,5 +1070,5 @@ color:#999}
     page-break-before:always}
     ul#markdown-toc{
     display:none}
-    }
+}
 

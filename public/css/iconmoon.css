@@ -15,7 +15,7 @@
 }
 
 .masthead-title .headicons a {
-  color: #505050; 
+  color: #ffffff; 
   text-decoration: none;
 }
 
@@ -52,16 +52,16 @@ i.iconside {
 }
 
 .iconm {
-  -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #ffffff;    
+  -o-transition:.1s;
+    -ms-transition:.1s;
+    -moz-transition:.1s;
+    -webkit-transition:.1s;
+    transition: .1s;
+    background-color: #660000;    
 }
 
 .iconm:hover {
-  background-color: #999999;
+  background-color: #ff6600;
   border-radius: 30px;
   color: white;
 }
