@@ -35,6 +35,24 @@ i.iconm {
     -moz-osx-font-smoothing: grayscale;
 }
 
+i.iconm.iconm-user:hover {
+    color: white;
+    background-color: #ff6600;
+    border-radius: 30px;
+}
+
+i.iconm.iconm-quill:hover {
+    color: white;
+    background-color: #ff6600;
+    border-radius: 30px;
+}
+
+i.iconm.iconm-envelop:hover {
+    color: white;
+    background-color: #ff6600;
+    border-radius: 30px;
+}
+
 i.iconside {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'icomoon' !important;
@@ -57,13 +75,11 @@ i.iconside {
     -moz-transition:.1s;
     -webkit-transition:.1s;
     transition: .1s;
-    background-color: #660000;    
 }
 
 .iconm:hover {
-  background-color: #ff6600;
   border-radius: 30px;
-  color: white;
+  color: #ff6600;
 }
 
 .iconm-home:before {
