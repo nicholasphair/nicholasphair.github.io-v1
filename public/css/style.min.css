@@ -38,8 +38,7 @@ text-decoration:none}
 a strong{
 color:inherit}
 a:focus,a:hover {
-    background-color: #ff6600;
-    border-radius: 30px
+    text-decoration: underline;
 }
 .gsc-cursor,.related-posts li a:hover,.slidetags a,.social-icons a,.tag-box a,.tag-ts{
 text-decoration:none}
@@ -281,7 +280,7 @@ width:100%}
     padding-bottom:1rem;
     margin-bottom:1rem;
     background-color: #660000;
-border-bottom:1px solid #ff6600}
+border-bottom:4px solid #ff6600}
 .masthead-title,.sidebar-item p:last-child{
 margin-bottom:0}
 .masthead-title{
@@ -565,9 +564,11 @@ width:100%}
 #disqus_thread{
 margin-top:2em}
 .footer-social-icons{
+    text-align: center;
     width:306px;
     display:block;
-margin:0 auto}
+    margin:0 auto
+}
 .social-icon{
 color:#fff}
 ul.social-icons{
@@ -598,7 +599,8 @@ background-color:#fff}
     -moz-transition:.5s;
 -webkit-transition:.5s}
 .fa-github-square:hover{
-background-color:#3d5b99}
+    color:#ff6600;
+    background-color:#660000}
 .fa-twitter-square{
     padding:10px 10px 7px;
     transition:.5s;
@@ -620,8 +622,10 @@ background-color:#eb8231}
     padding:10px 12px 7px 11px;
     transition:.5s;
 background-color:#fff}
-.fa-envelope-square:hover{
-background-color:#e64a41}
+.fa-envelope-square:hover {
+    color:#ff6600;
+    background-color:#660000;
+}
 .fa-linkedin-square{
     padding:10px 11px 8px;
     transition:.5s;
@@ -642,7 +646,7 @@ background-color:#e25714}
 .fa-creative-commons{
     padding:2px;
     transition:.5s;
-    color:#515151;
+    color:#660000;
 background-color:#fff}
 .fa-print,.fa-twitter.meta{
     padding:1px;
@@ -651,8 +655,8 @@ background-color:#fff}
     -moz-transition:.5s;
 -webkit-transition:.5s}
 .fa-creative-commons:hover{
-    color:#fff;
-background-color:#e64a41}
+    color:#ff6600;
+}
 .fa-print{
     transition:.5s;
     color:#9A9A9A;
