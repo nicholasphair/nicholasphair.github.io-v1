@@ -38,14 +38,14 @@ computer architectures, operating systems, cyber security, hardware/electronics 
 I think its important to have interests all over the place. In that regard, I enjoy
 all sorts of sports. Hockey, football, baseball, basketball, lacrosse, and boxing top my list.
 I would also love to get into woodworking. My experience is limited to some crumby hand tools
-and a jewlery box but I am actively stalking the forumns and am looking forward to 
+and a jewlery box but I am actively stalking the forums and am looking forward to 
 the day I can set up my own home shop. Lately, I've found myself drawn to American Literture.
 I've been making my way through some of the classic short stories and am trying to memorize
 a few poems. Like my tech interests though, this is not an exhaustive list.
 
 
 As mentioned on my home page, I see this site as an opportunity to share what I know with
-whoever wants to read it. I am extremely passionate about teaching and love the idea of
+whoever wants to read. I am extremely passionate about teaching and love the idea of
 using technology as a platform to do so. So much so that I wrote my college essay about
 khanacademy founder Sal Khan. He is a tremendous inspiration to me and at somepoint I'd
 like to start producing videos in a similar fashion.
