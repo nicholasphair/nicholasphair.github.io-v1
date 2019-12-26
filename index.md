@@ -6,9 +6,9 @@ description: "Blogging on ...."
 ---
 
 ## The Site
-This website is (clearly) a work in progress. I hope to use it mainly as a blog. 
+This website will forever be a work in progress. I hope to use it mainly as a blog. 
 
-Creating this website was motivated by my ever growing collection of notes. Everytime
+Creating this website was motivated by my ever growing collection of notes. Every time
 I learn something I take pretty detailed notes of my new understanding. 
 Rather than maintain an abundance of notebooks, scratchpads, and text files I thought
 it be best to consolidate them in one central spot, here. Instead of hoarding my knowledge
