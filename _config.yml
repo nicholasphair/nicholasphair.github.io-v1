@@ -36,7 +36,7 @@ future:      true
 syntax_highlighter: rouge
 input: GFM
 
-gems:
+plugins:
   - github-pages
   - font-awesome-sass
   - jekyll-redirect-from
