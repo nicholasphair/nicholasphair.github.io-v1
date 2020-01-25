@@ -17,10 +17,7 @@ tags:
 ---
 
 | - | :- |
-| <i class="fa fa-envelope"></i> | Obi-Wan Kenobi Ave<br>Stewjon<br>Stewjon system | 
-| - | :- |
-| <i class="fa fa-car"></i>  | Directions? Back the way you came. | 
-| - | :- |
+| <i class="fa fa-envelope"></i> | <a href="javascript:location='mailto:\u006e\u0069\u0063\u006b\u0070\u0068\u0061\u0069\u0072\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u006e\u0069\u0063\u006b\u0070\u0068\u0061\u0069\u0072\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a> | 
 
 
 <!-- <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="small" data-dnt="true">Tweet</a> -->
