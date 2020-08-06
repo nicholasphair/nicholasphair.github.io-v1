@@ -54,3 +54,5 @@ khanacademy founder Sal Khan. He is a tremendous inspiration to me and at some p
 like to start producing videos in a similar fashion.
 
 Welcome, and thanks for reading!
+
+#EastConst
