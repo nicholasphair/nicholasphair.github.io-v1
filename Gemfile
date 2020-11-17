@@ -4,7 +4,7 @@ gem 'nokogiri', '1.10.8'
 gem 'addressable', '= 2.4.0'
 
 group :jekyll_plugins do
-gem 'github-pages', '>= 93'
+gem 'github-pages', '>= 209'
 end
 
 group :jekyll_misc_plugins do
@@ -20,3 +20,5 @@ gem 'execjs', '>= 2.6.0'
 gem 'octopress', '>= 3.0.11'
 gem 'therubyracer', '>= 0.12.2'
 end
+
+gem "jekyll", "~> 3.6"

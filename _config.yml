@@ -51,15 +51,15 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Nick Phair
-  url:               https://nicholasphair.github.io
-  avatar:            SouthParkAvatar_NPhair.png
+  name: Nick Phair
+  url: https://nicholasphair.github.io
+  avatar: nphair_quebec_city.JPG
   #email:           
 
 # Owner/author information
 owner:
-  name:              Nick Phair
-  avatar:            SouthParkAvatar_NPhair.png
+  name: Nick Phair
+  avatar: nphair_quebec_city.JPG
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
