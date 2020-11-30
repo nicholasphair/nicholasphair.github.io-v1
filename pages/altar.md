@@ -45,7 +45,7 @@ and more of Luna choosing us. Well, choosing my girlfriend, Anna, really. As the
 story goes Anna put her hand in Luna's crate and she, a normally bashful
 cat, rubbed up against it. She was the one. Luna went by many, many names. 
 There was Luna, Miss Luna, Lunatic, Looney, Looney Tunes, Tooney, 
-Tuna, Tuna Fish, Fish, Fishy, Toothless (she looked like toothless 
+Tuna, Tuna Fish, Fish, Fishy, Fish Stick, Toothless (she looked like toothless 
 the dragon) and probably many more.  
 
 Luna was the definition of a therapy cat. She always knew when someone 
@@ -54,7 +54,7 @@ There was her first (and only) time in the snow. Her love for Sheeba,
 particularly Sheeba sticks. How she would come alive at night and play 
 with her favorite toys. She was quite fond of crinkle balls and an old 
 yellow ball that predates her by years. In fact, it is only
-with this yellow ball would we every hear her little squeaks (she may 
+with this yellow ball would we ever hear her little squeaks (she may 
 have been mute). And of course, there was her patient, stalking of strings,
 watching birds out the windows, basking in the sun, pawing us in bed for food, 
 and being a great big sister to our other cat Millie. I could write pages
@@ -92,7 +92,7 @@ my grandma's birthday cake. Oscar hopping through snow, disappearing
 every time his feet hit the ground because his white fur blended in. His
 insistence on tearing the wrapping paper off of gifts for us, and his love
 for all food - cheese doodles and nilla wafers were among his favorites.
-He is very missed.
+He is very loved and very missed.
 
 
 <style>
