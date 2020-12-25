@@ -81,9 +81,9 @@ about the things we love about her. We love Luna and she is very missed.
   </div>
 </div>
 
-Oscar "Meyer" was my childhood dog. He was the Goldendoodle before it was
+Oscar "Mayer" was my childhood dog. He was the Goldendoodle before it was
 cool to be a goldendoodle. My family has many great memories with Oscar,
-who was lovingly nicknamed The Devil Doodle by my uncle. I'll always 
+who was lovingly nicknamed "The Devil Doodle" by my uncle. I'll always 
 remember him sitting underneath his favorite tree as we played out back,
 surveying the driveway for any UPS driver who dared come too close. 
 Not shockingly, while Oscar had a big bark, it was really a facade for a 
