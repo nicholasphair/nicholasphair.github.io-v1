@@ -46,7 +46,7 @@ story goes Anna put her hand in Luna's crate and she, a normally bashful
 cat, rubbed up against it. She was the one. Luna went by many, many names. 
 There was Luna, Miss Luna, Lunatic, Looney, Looney Tunes, Tooney, 
 Tuna, Tuna Fish, Fish, Fishy, Fish Stick, Toothless (she looked like toothless 
-the dragon) and probably many more.  
+the dragon), Big Momma, and probably many more.  
 
 Luna was the definition of a therapy cat. She always knew when someone 
 was sad and needed attention. We have so many great memories with Luna. 
@@ -83,7 +83,7 @@ about the things we love about her. We love Luna and she is very missed.
 
 Oscar "Mayer" was my childhood dog. He was the Goldendoodle before it was
 cool to be a goldendoodle. My family has many great memories with Oscar,
-who was lovingly nicknamed "The Devil Doodle" by my uncle. I'll always 
+who was lovingly nicknamed, "The Devil Doodle", by my uncle. I'll always 
 remember him sitting underneath his favorite tree as we played out back,
 surveying the driveway for any UPS driver who dared come too close. 
 Not shockingly, while Oscar had a big bark, it was really a facade for a 
